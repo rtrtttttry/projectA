@@ -1,13 +1,33 @@
+body {
+  background-color: whitesmoke;
+  margin: 20px;
+}
+
 body * {
   font-family: "Times New Roman", Times, serif;
   font-size: 15pt;
+}
+
+.header {
+  background-color: lightyellow;
+  padding: 20px;
+  border: 3px solid orange;
+  text-align: center;
+  margin-bottom: 20px;
 }
 
 h1 {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: 30pt;
   color: brown;
-  bottom: 5px solid yellow;
+  border-bottom: 5px solid yellow;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  font-size: 16pt;
+  color: darkslategray;
+  font-style: italic;
 }
 
 h2 {
