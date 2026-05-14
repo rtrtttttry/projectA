@@ -7,7 +7,7 @@ h1 {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: 30pt;
   color: brown;
-  bottom: 5px solid yellow;
+  border-bottom: 5px solid yellow;
 }
 
 h2 {
