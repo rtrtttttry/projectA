@@ -1,0 +1,55 @@
+.site-header {
+  background-color: lightyellow;
+  padding: 20px;
+  border: 3px solid orange;
+  margin-bottom: 20px;
+}
+
+.site-header .header-inner {
+  max-width: 960px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.site-header .brand {
+  margin-bottom: 16px;
+}
+
+.site-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px 24px;
+}
+
+.site-nav a {
+  color: saddlebrown;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 6px 12px;
+  border: 2px solid orange;
+  border-radius: 4px;
+  background-color: #fff8e7;
+}
+
+.site-nav a:hover {
+  background-color: moccasin;
+}
+
+.site-nav a[aria-current="page"] {
+  background-color: orange;
+  color: white;
+}
+
+main {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.redirect-note {
+  text-align: center;
+  margin-top: 40px;
+}
