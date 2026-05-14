@@ -1,0 +1,17 @@
+body * {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 15pt;
+}
+
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 30pt;
+  color: brown;
+  bottom: 5px solid yellow;
+}
+
+h2 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20pt;
+  color: darkorange;
+}
